@@ -47,3 +47,5 @@ For 50 days, design native app UI everyday.
 ![#022](./ui/022.jpg)
 
 ![#023](./ui/023.jpg)
+
+![#024](./ui/024.jpg)
